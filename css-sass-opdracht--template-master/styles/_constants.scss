@@ -1,0 +1,8 @@
+$primary-background-color: #97d279; 
+$primary-padding: 20px;
+
+@mixin featured-about ($padding) {
+    text-align: justify;
+    padding: $padding;
+    line-height: 1.4em;
+}
